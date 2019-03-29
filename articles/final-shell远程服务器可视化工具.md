@@ -10,7 +10,7 @@ categories:
 date: 2019-01-19 10:29:00
 ---
 
-![upload successful](/images/qmzbe-0.png)
+![upload successful](./images/qmzbe-0.png)
 
 [FinalShell官网](http://www.hostbuf.com/) http://www.hostbuf.com/
 

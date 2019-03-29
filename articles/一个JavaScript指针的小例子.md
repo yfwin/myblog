@@ -41,7 +41,7 @@ var b = a;
 在这里a指向了一个对象{n:1}（我们姑且称它为对象A），b指向了a所指向的对象，也就是说，在这时候a和b都是指向对象A的：
 
 
-![upload successful](/images/qmzbe-15.png)
+![upload successful](./images/qmzbe-15.png)
 
 这一步很好理解，接着继续看下一行非常重要的代码：
 ```javascript

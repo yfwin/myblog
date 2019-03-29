@@ -7,7 +7,7 @@ categories:
   - MySQL
 date: 2019-01-21 09:42:00
 ---
-![upload successful](/images/qmzbe-8.png)
+![upload successful](./images/qmzbe-8.png)
 
 ## 终端登陆系统
 ```

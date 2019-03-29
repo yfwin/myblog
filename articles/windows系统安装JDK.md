@@ -9,7 +9,7 @@ date: 2019-01-20 12:51:00
 
 
 
-![upload successful](/images/qmzbe-7.png)
+![upload successful](./images/qmzbe-7.png)
 
 ## 1.下载安装
 下载JDK，根据个人需要下载版本。
@@ -23,12 +23,12 @@ date: 2019-01-20 12:51:00
 
 打开系统环境变量面板
 
-![upload successful](/images/qmzbe-1.png)
+![upload successful](./images/qmzbe-1.png)
 
 点击新建系统变量
 
 
-![upload successful](/images/qmzbe-2.png)
+![upload successful](./images/qmzbe-2.png)
 
 ```
 变量名：JAVA_HOME
@@ -44,12 +44,12 @@ date: 2019-01-20 12:51:00
  输入java -version查看版本号
  >java -version
 
-![upload successful](/images/qmzbe-3.png)
+![upload successful](./images/qmzbe-3.png)
 
 输入javac显示使用信息
 >javac
 
-![upload successful](/images/qmzbe-4.png)
+![upload successful](./images/qmzbe-4.png)
 
 如果以上均可，表示JDK安装配置成功
 

@@ -9,7 +9,7 @@ categories:
 date: 2019-01-17 16:51:00
 ---
 
-![overwrote existing file](/images/image.png)
+![overwrote existing file](./images/image.png)
 Icarus：https://blog.zhangruipeng.me/hexo-theme-icarus/
 Hueman：https://blog.zhangruipeng.me/hexo-theme-hueman/
 Gandalfr：https://mikecoder.github.io/oj-code/
