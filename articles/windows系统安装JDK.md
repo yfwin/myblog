@@ -9,7 +9,7 @@ date: 2019-01-20 12:51:00
 
 
 
-![upload successful](/images/qmzbe-7.png)
+![upload successful](./images/qmzbe-7.png)
 
 ## 1.下载安装
 下载JDK，根据个人需要下载版本。
